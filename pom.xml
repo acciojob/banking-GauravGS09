@@ -42,6 +42,41 @@
             <version>4.8.1</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>commons-beanutils</groupId>
+            <artifactId>commons-beanutils</artifactId>
+            <version>1.7.0</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.uuidcode</groupId>
+            <artifactId>builder</artifactId>
+            <version>0.0.64</version>
+        </dependency>
+        <dependency>
+            <groupId>kr.pe.kwonnam.dynamicql</groupId>
+            <artifactId>string-builder-ql-params</artifactId>
+            <version>0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>org.bitbucket.dollar</groupId>
+            <artifactId>dollar</artifactId>
+            <version>1.0-beta3</version>
+        </dependency>
+        <dependency>
+            <groupId>org.bitbucket.dollar</groupId>
+            <artifactId>dollar</artifactId>
+            <version>1.0-beta3</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.uuidcode</groupId>
+            <artifactId>builder</artifactId>
+            <version>0.0.64</version>
+        </dependency>
+        <dependency>
+            <groupId>com.github.uuidcode</groupId>
+            <artifactId>builder</artifactId>
+            <version>0.0.64</version>
+        </dependency>
     </dependencies>
 
 
